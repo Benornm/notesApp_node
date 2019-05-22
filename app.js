@@ -12,3 +12,4 @@ if(command === 'add') {
     console.log('Removing note...');
 }
 
+ 
